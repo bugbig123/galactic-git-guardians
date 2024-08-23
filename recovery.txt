@@ -1,0 +1,1 @@
+Critical recovery code: FLAG{galactic_shield_activated}
